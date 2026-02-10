@@ -154,6 +154,7 @@ while player:
 ```
 ## OUTPUT
 
+<img width="867" height="679" alt="Screenshot 2026-02-10 094946" src="https://github.com/user-attachments/assets/55951dca-5ccc-40e0-a8e7-47862b7e635d" />
 
 
 
